@@ -19,7 +19,7 @@ body {
     width: 100%;
     background-size: cover;
     background-repeat: no-repeat;
-    background-image: url(https://img.freepik.com/free-vector/hand-drawn-spring-wallpaper_23-2148829855.jpg);
+    background-image: url('image/image.jpg');
     background-attachment: fixed;
     background-position: center;
     overflow-x: hidden;
@@ -318,21 +318,21 @@ main {
 
     .top-left-image {
         left: 10%;
-        width: 120px;
-        height: 140px;
+        width: 105px;
+        height: 125px;
         position: absolute;
-        top: 18%;
+        top: 20%;
     }
 
     .hero {
         right: 7%;
         position: absolute;
-        top: 6%;
+        top: 8%;
     }
 
     .hero img {
-        width: 120px;
-        height: 140px;
+        width: 105px;
+        height: 125px;
     }
 
     .content {
@@ -346,12 +346,12 @@ main {
     }
 
     .box-title {
-        font-size: 0.75rem;
+        font-size: 0.85rem;
         font-weight: bolder;
     }
 
     .box-subtitle {
-        font-size: 0.58rem;
+        font-size: 0.68rem;
     }
 
     .content p {
